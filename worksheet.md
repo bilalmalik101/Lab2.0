@@ -21,6 +21,10 @@ Hello, Dennis.  You are 0 years, 0 weeks, and 0 days old today
 2. Bjarne Stroustrup, the creator of the C++ programming
 language, the object-oriented extension of C, was born on
 December 30th, 1950.  How old is he today?
+Answer:
+Today is 2023/10/05
+Your birthday was 1950/12/30
+Hello, bjarne.  You are 0 years, 0 weeks, and 0 days old today
 
 
 
