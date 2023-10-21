@@ -94,8 +94,7 @@ in your conversion program.  Would you be able
 to use it to convert the US national debt
 (which as of 2020 was \$26,009,754,625,487)?
 Why or why not?
-
-
+Answer: No it cannot covert by using int simply because the number of bits are higer then the one which in made for so we well get error.
 
 
 7. Mixed types
