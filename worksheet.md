@@ -41,9 +41,7 @@ Today is 2023/10/21
 Your birthday was
 Hello, bilal.  You are 0 years, 0 weeks, and 0 days old today.
 example 2: 
-Today is 2023/10/21
-Your birthday was
-Hello, 99.  You are 0 years, 0 weeks, and 0 days old today.
+
 
 
 
@@ -74,10 +72,20 @@ Hello, 99.  You are 0 years, 0 weeks, and 0 days old today.
 the exchange amounts for the following inputs:
 
   a) $250.25
+  result:
+  Half dollar exchange to 88.963875 GBP
+  Half dollar convert to 14374 JPY
 
   b) $1,000.52
+  result:
+  Half dollar exchange to 355.684875 GBP
+  Half dollar convert to 57472 JPY
+
 
   c) $968,410.12
+  result:
+  Half dollar exchange to 344269.812500 GBP
+  Half dollar convert to 55627899 JPY
 
 
 
