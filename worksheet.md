@@ -101,11 +101,19 @@ Answer: No it cannot covert by using int simply because the number of bits are h
 
 a) Run the `area` program with 3 and 4 as inputs.  
 What value do you get?  Is this result correct?
+answer:
+value we get: The area is 0.000000 square units.
+its not correct.
 
 
 b) Execute the program again with inputs 3 and 5.
 Does the program give correct results?  Why not?
+Answer:
+value we get:The area is 0.000000 square units.
+its not correct because the prcedance of division and multiplication is same.
 
 
 c) Fix the program by editing the `area.c` source
 code so that the program produces correct results.
+answer: The area is 7.500000 square units.
+correct value we get after the fixing area.c program.
