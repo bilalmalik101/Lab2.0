@@ -35,29 +35,38 @@ referred to as *fuzzing*).  Try breaking the `birthday_cli`
 program by giving it "bad" input and observe the consequences.
 Give at least two examples of potentially bad input and the
 results you observe.
+Answer:
+Example 1:
+Today is 2023/10/21
+Your birthday was
+Hello, bilal.  You are 0 years, 0 weeks, and 0 days old today.
+example 2: 
+Today is 2023/10/21
+Your birthday was
+Hello, 99.  You are 0 years, 0 weeks, and 0 days old today.
+
 
 
 
 
 4. Complete all the size and range entries below.
-
 * `char`
   size: 1 byte
   range: -128 to 127
 * `short int`
-  size:
-  range:
+  size:2 bytes
+  range:32767
 * `int`
-  size:
-  range:
+  size:4 bytes
+  range: -214748364 to 2147483647
 * `long int`
-  size:
-  range:
+  size:4 bytes
+  range: 0 to 4294967295
 * `float`
-  size:
+  size:4 bytes
   range: 7 digits of accuracy
 * `double`
-  size:
+  size:8 bytes
   range: 15 digits of accuracy
 
 
